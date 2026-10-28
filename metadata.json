@@ -1,0 +1,6 @@
+{
+  "name": "App do Cafeicultor",
+  "description": "Plataforma de inteligência de comercialização, cotações em tempo real do café (CEPEA, ICE NY, ICE Londres, B3), simulador de preço líquido na fazenda, histórico e alertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
