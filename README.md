@@ -11,6 +11,31 @@
 
 ---
 
+## 📱 Demonstração Visual do Layout (Web Desktop & Mobile PWA)
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="62%" align="center" valign="top">
+        <strong>🖥️ Painel Web Desktop (Visão Geral & Paridades)</strong>
+        <br /><br />
+        <img src="src/assets/images/web_desktop_dashboard_1793184273693.jpg" alt="Painel Web Desktop do Cafeicultor" width="100%" />
+        <br />
+        <em>Dashboard amplo com cotações CEPEA, ICE NY, ICE Londres, gráficos interativos e demonstrativo de exportação.</em>
+      </td>
+      <td width="38%" align="center" valign="top">
+        <strong>📱 Aplicativo Mobile no Cafezal (PWA)</strong>
+        <br /><br />
+        <img src="src/assets/images/mobile_app_interface_1793184273228.jpg" alt="Interface Mobile do Cafeicultor no Campo" width="100%" />
+        <br />
+        <em>Design ergonômico com Modo Campo (Offline), alto contraste e simulador de venda na palma da mão.</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📌 Sumário
 1. [Visão Geral & Proposta de Valor](#-visão-geral--proposta-de-valor)
 2. [Funcionalidades Principais (MVP)](#-funcionalidades-principais-mvp)
