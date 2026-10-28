@@ -16,19 +16,19 @@
 <div align="center">
   <table>
     <tr>
-      <td width="62%" align="center" valign="top">
-        <strong>🖥️ Painel Web Desktop (Visão Geral & Paridades)</strong>
+      <td width="65%" align="center" valign="top">
+        <strong>🖥️ Painel Web Desktop (Visão Geral, Bolsas & Paridades de Exportação)</strong>
         <br /><br />
-        <img src="src/assets/images/web_desktop_dashboard_1793184273693.jpg" alt="Painel Web Desktop do Cafeicultor" width="100%" />
-        <br />
-        <em>Dashboard amplo com cotações CEPEA, ICE NY, ICE Londres, gráficos interativos e demonstrativo de exportação.</em>
+        <img src="public/assets/aistudio/Captura_de_tela_de_2026-10-28_07-50-03_07e11dc8.png" alt="Painel Web Desktop Cafeicultor - Cotações em Tempo Real" width="100%" />
+        <br /><br />
+        <em>Dashboard completo: cotações em tempo real (CEPEA Arábica/Conilon, ICE NY, ICE Londres, B3 ICF, Dólar PTAX), conversão automática de paridade em R$/saca, console da API Backend e análise gráfica interativa.</em>
       </td>
-      <td width="38%" align="center" valign="top">
-        <strong>📱 Aplicativo Mobile no Cafezal (PWA)</strong>
+      <td width="35%" align="center" valign="top">
+        <strong>📱 Aplicativo Mobile no Campo (PWA)</strong>
         <br /><br />
-        <img src="src/assets/images/mobile_app_interface_1793184273228.jpg" alt="Interface Mobile do Cafeicultor no Campo" width="100%" />
-        <br />
-        <em>Design ergonômico com Modo Campo (Offline), alto contraste e simulador de venda na palma da mão.</em>
+        <img src="public/assets/aistudio/Captura_de_tela_de_2026-10-28_07-51-40_bfabc4cf.png" alt="Interface Mobile do Cafeicultor no Smartphone" width="100%" />
+        <br /><br />
+        <em>Navegação ergonômica pelo polegar com barra de 4 abas, botão de alto contraste (Modo Sol Forte) e operação offline no cafezal.</em>
       </td>
     </tr>
   </table>
